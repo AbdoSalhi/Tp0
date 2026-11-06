@@ -9,4 +9,9 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
+<h:head>
+  <h:outputStylesheet name="css/mycsslayout.css"/>
+  <h:outputScript name="js/script.js" target="head"/>
+  <title>Conversation</title>
+</h:head>
 </html>
